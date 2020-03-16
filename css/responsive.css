@@ -1,0 +1,37 @@
+@media all and (max-width: 1000px) {@media all and (max-width: 1000px) {
+}}
+@media all and (max-width: 650px) {
+  .container{
+    margin:0 auto;
+    text-align: left;
+    padding-left: 10px;
+  }
+  #nav-content{
+    display:none;
+  }
+  .hum-wrapper{
+    display:block;
+  }
+  .container h1{
+    font-size: 30px;
+  }
+  h2{
+    font-size: 20px;
+  }
+  h3{
+    font-size: 15px
+  }
+  .skil-icon{
+    flex: auto;
+    width:50%;
+  }
+  .intro-profile{
+    width:100%;
+  }
+  .school span{
+    font-size: 15px;
+  }
+  .slider{
+    text-align: center;
+  }
+}
