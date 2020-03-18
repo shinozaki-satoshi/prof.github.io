@@ -1,5 +1,9 @@
-@media all and (max-width: 1000px) {@media all and (max-width: 1000px) {
-}}
+@media all and (max-width: 1000px) {
+  .skil-icon{
+    flex: auto;
+    width:50%;
+  }
+}
 @media all and (max-width: 650px) {
   .container{
     margin:0 auto;
@@ -23,15 +27,9 @@
   }
   .skil-icon{
     flex: auto;
-    width:50%;
+    width:100%;
   }
   .intro-profile{
     width:100%;
-  }
-  .school span{
-    font-size: 15px;
-  }
-  .slider{
-    text-align: center;
   }
 }
