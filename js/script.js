@@ -12,24 +12,24 @@ $(function() {
         $answer.removeClass('open');
         // slideUpメソッドを用いて、$answerを隠してください
         $answer.slideUp();
-  
+
         // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
         $(this).find("span").text("+");
-  
+
       } else {
         $answer.addClass('open');
         // slideDownメソッドを用いて、$answerを表示してください
         $answer.slideDown();
-  
+
         // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
         $(this).find("span").text("-");
       }
     });
   });
-  
+
   $(document).ready(function(){
     $('.slider').bxSlider({
         auto: true,
-        pause: 5000,
+        pause: 10000,
     });
   });
