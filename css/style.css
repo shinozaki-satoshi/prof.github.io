@@ -177,7 +177,10 @@
 
   }
   .work{
-    padding:30px;
+   padding: 10px 50px 10px 50px;
+  }
+  .work p,a{
+    text-align: justify;
   }
   .slide{
     margin-bottom:20px;
