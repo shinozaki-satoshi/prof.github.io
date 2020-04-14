@@ -3,7 +3,7 @@ satoshi's portfolio
  
 # DEMO
  
-please access my portfolio(https://shinozaki-satoshi.github.io/prof.github.io/)
+please access my portfolio(https://shinozaki-satoshi.github.io/prof.github.io)
  
 # Features
  
@@ -20,6 +20,7 @@ please download
 # Usage
  
 please access my portfolio
+(https://shinozaki-satoshi.github.io/prof.github.io)
  
 # Note
  
