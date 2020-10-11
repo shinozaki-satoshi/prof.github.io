@@ -2,7 +2,7 @@
 satoshi's portfolio
  
 # DEMO
- 
+Created this for a long-term intern in February 2020
 please access my portfolio(https://shinozaki-satoshi.github.io/prof.github.io)
  
 # Features
